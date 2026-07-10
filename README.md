@@ -63,10 +63,4 @@ DB_NAME=taskflow
 python app.py
 ```
 
-## Author
 
-<<<<<<< HEAD
-**Shrishti Kashyap**
-=======
-**Shrishti Kashyap**
->>>>>>> 25332cdcbcd18a1340ca38d081d6f66979f730db
